@@ -6,6 +6,6 @@
 - 💻 I'm currently working on a basic [Python interpreter](https://github.com/THuitema/Interpreter)
 - 📆 I'm planning to overhaul [TerpAlert](https://terpalert.xyz/) soon, including rewriting an API with Django REST Framework and building a React frontend
 
-# How to reach me 📫
+## How to reach me 📫
 - [LinkedIn](https://www.linkedin.com/in/thomas-huitema/)
 - thuitema@umd.edu
