@@ -7,5 +7,5 @@
 
 ## How to reach me 📫
 - [LinkedIn](https://www.linkedin.com/in/thomas-huitema/)
-- thuitema@umd.edu
-- [thuitema.github.io/](https://thuitema.github.io/)
+- thuitema@umd.edu (school email)
+- thuitema35@gmail.com (personal email)
